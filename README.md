@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>“Experience is the name everyone gives to their mistakes.” – Oscar Wilde</i>
 <!--ENDS_HERE_QUOTE_README-->
